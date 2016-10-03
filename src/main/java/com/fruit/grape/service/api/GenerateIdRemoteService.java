@@ -1,4 +1,4 @@
-package com.fruit.service.api;
+package com.fruit.grape.service.api;
 
 /**
  * Created by hanlei6 on 2016/9/30.
